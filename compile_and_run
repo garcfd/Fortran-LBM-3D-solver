@@ -1,2 +1,0 @@
-gfortran -m64 -Wall -fcheck=all -fbounds-check -pedantic -fbacktrace -O2 -o lbm3d lbm3d_01.for
-time lbm3d | tee conv.dat
