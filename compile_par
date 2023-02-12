@@ -1,1 +1,1 @@
-gfortran -m64 -Wall -fcheck=all -fbounds-check -pedantic -fbacktrace -fopenmp -O2 -o lbm3Dpar lbm3Dpar_01.for
+gfortran -m64 -Wall -fcheck=all -fbounds-check -pedantic -fbacktrace -fopenmp -O2 -o lbm3Dpar lbm3Dpar_04.for
